@@ -1,9 +1,9 @@
-# What is Clorg?
+# Что такое Task?
 
-Clorg is a Daily Task CLI Manager
+Task - это CLI менеджер ежедневных задач
 
 
-# Functions
+# Функции
 
 - set
 - add
@@ -21,11 +21,12 @@ Clorg is a Daily Task CLI Manager
  **[3]** `clorg setup`
  
  # Warning
+
  
- Clorg uses gum utility, so the clorg setup is mandatory
+Task использует утилиту Gum, поэтому установка Task обязательна.
 
 
-# Screenshots
+# Скриншоты
 ![Alt text](https://raw.githubusercontent.com/UnityTheCoder/Clorg/main/images/screen5.png)
 ![Alt text](https://github.com/UnityTheCoder/Clorg/blob/main/images/screen2.png?raw=true)
 
