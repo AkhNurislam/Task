@@ -12,7 +12,7 @@ Task - это CLI менеджер ежедневных задач
 - setup
 
 
-# Installation
+# Установка
 
  **[1]** `sudo sh -c "curl -L https://github.com/UnityTheCoder/Clorg/raw/main/gum > /usr/bin/gum; chmod +x /usr/bin/gum"`
  
@@ -20,7 +20,7 @@ Task - это CLI менеджер ежедневных задач
  
  **[3]** `clorg setup`
  
- # Warning
+ # Предупреждение
 
  
 Task использует утилиту Gum, поэтому установка Task обязательна.
